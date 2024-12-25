@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo Thanks For Commiting $GIT_AUTHOR_NAME
